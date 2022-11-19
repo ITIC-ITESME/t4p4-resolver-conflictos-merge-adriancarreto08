@@ -1,3 +1,2 @@
-# References
 
-* octocat 1 😈
+Esta es una actividad que debemos de crear conflictos en GitHub...
